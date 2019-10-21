@@ -5,9 +5,9 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/vyouyou/springcloudconfigserver/
-          search-paths: /config
-          username: vqishiyu@163.com
-          password: a1234566.
+          uri: https://github.com/vyouyou/springcloudconfigserver
+          search-paths: config
+          username:
+          password:
 server:
   port: 7001
